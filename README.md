@@ -18,5 +18,14 @@
 - Worst Time Complexity:  O(n)
 - Best Space Complexity: O(1)
 
+# 2. Binary Search
+- Binary Search is used for searching an element in a sorted array.
+- It is a fast search algorithm with run-time complexity of O(log n).
+- Binary search works on the principle of divide and conquer.
+- This searching technique looks for a particular element by comparing the middle most element of the collection.
+- It is useful when there are large number of elements in an array.
+
+- Binary searching starts with middle element. If the element is equal to the element that we are searching then return true. If the element is less than then move to the right of the list or if the element is greater than then move to the left of the list. Repeat this, till you find an element.
+
 
 
